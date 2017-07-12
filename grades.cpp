@@ -21,7 +21,7 @@ int main()
 	cout << "Enter your first class name: ";
 	cin >> s1;
 
-	//get class names
+	//get class names 2
 	cout << "Enter your second class name: ";
 	cin >> s2;
 
